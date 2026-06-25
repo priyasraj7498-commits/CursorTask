@@ -1,21 +1,16 @@
-# Cursor Onboarding Task
+# B2B LinkedIn Growth Engine & Strategy Repository
 
-## Tools Installed
-- Cursor IDE — AI-powered code editor
-- Claude Code extension — AI coding assistant by Anthropic
-- Codex extension — AI coding assistant by OpenAI
-- Git — version control tool
+A comprehensive, data-driven research project analyzing the content frameworks, psychological triggers, and mechanical growth rules of 10 world-class B2B LinkedIn creators.
 
-## Steps Completed
-1. Downloaded and installed Cursor IDE from cursor.com
-2. Installed Claude Code extension via Cursor Plugins panel
-3. Installed Codex extension via Cursor Plugins panel
-4. Created a GitHub account and set up a public repository
-5. Opened the repository in Cursor
-6. Created and edited this README.md file
-7. Committed and pushed changes to GitHub
+## 📁 Repository Structure
+*   `research/`: Individual teardowns of 10 industry-leading B2B experts detailing their core strategies and content formulas.
+*   `research/master-strategy.md`: A synthesized master framework mapping out high-converting hooks, readability rules, and algorithmic reach patterns.
+*   `linkedin-templates/`: Plug-and-play post frameworks built directly from the aggregated data insights.
 
-## Issues Encountered
-- Claude Code and Codex extensions did not appear in search initially, resolved by reinstalling Cursor
-- Git was not installed by default, downloaded and installed from git-scm.com
+## 🛠️ Key Strategic Takeaways
+1.  **Dwell Time Optimization:** Content must be formatted for effortless scannability using single-sentence paragraphs and clear whitespace to maximize algorithmic reach.
+2.  **Psychology Over Product:** High-converting hooks challenge conventional wisdom (Contra-Logic) or explicitly quantify the high stakes of a business problem.
+3.  **Algorithmic Precision:** Total reach is heavily dictated by early engagement velocity, link suppression in the main body copy, and driving heavy comment depth.
 
+---
+*Created as a strategic foundation for B2B content execution and distribution excellence.*
